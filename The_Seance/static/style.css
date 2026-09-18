@@ -1,0 +1,300 @@
+:root {
+  --bg: #0d0714;
+  --panel: #1a1026;
+  --accent: #ff7518;
+  --accent-2: #a855f7;
+  --text: #f0e6ff;
+  --muted: #9d8bb5;
+  --success: #4ade80;
+  --error: #f87171;
+  --border: #33224a;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background:
+    linear-gradient(180deg, rgba(6, 3, 10, 0.93), rgba(6, 3, 10, 0.96)),
+    url('ouija-bg.jpg') center center / cover no-repeat fixed;
+  color: var(--text);
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+  filter: grayscale(0);
+  transition: filter 3.5s ease;
+}
+
+body.candles-out {
+  filter: grayscale(1);
+}
+
+.bats {
+  position: fixed;
+  top: 1rem;
+  right: 1.5rem;
+  font-size: 1.8rem;
+  opacity: 0.5;
+  filter: drop-shadow(0 0 6px rgba(168, 85, 247, 0.6));
+  pointer-events: none;
+  z-index: 1;
+}
+
+/* Flickering candlelight glow along the left and right edges —
+   the page starts dark (see the body background above) and this glow
+   is what lights it, so intensity and speed matter more than on a
+   pre-lit background. */
+body::before,
+body::after {
+  content: "";
+  position: fixed;
+  top: 0;
+  width: min(48vw, 640px);
+  height: 100vh;
+  pointer-events: none;
+  z-index: 0;
+}
+
+body::before {
+  left: 0;
+  background: radial-gradient(ellipse at left center, rgba(255, 149, 66, 0.55), transparent 72%);
+  opacity: 0.6;
+  animation: flicker-left 3.6s infinite ease-in-out;
+  transition: opacity 0.6s ease;
+}
+
+body::after {
+  right: 0;
+  background: radial-gradient(ellipse at right center, rgba(168, 85, 247, 0.48), transparent 72%);
+  opacity: 0.55;
+  animation: flicker-right 4.2s infinite ease-in-out;
+  transition: opacity 0.6s ease;
+}
+
+body.candles-out::before,
+body.candles-out::after {
+  animation: none !important;
+  opacity: 0 !important;
+}
+
+/* A gentle, uneven flame flicker: small steps around a steady midpoint,
+   not big swings — real candlelight wavers softly, it doesn't strobe. */
+@keyframes flicker-left {
+  0%   { opacity: 0.6; }
+  9%   { opacity: 0.56; }
+  18%  { opacity: 0.64; }
+  27%  { opacity: 0.5; }
+  36%  { opacity: 0.62; }
+  45%  { opacity: 0.58; }
+  54%  { opacity: 0.68; }
+  63%  { opacity: 0.54; }
+  72%  { opacity: 0.6; }
+  81%  { opacity: 0.52; }
+  90%  { opacity: 0.63; }
+  100% { opacity: 0.6; }
+}
+
+@keyframes flicker-right {
+  0%   { opacity: 0.55; }
+  11%  { opacity: 0.5; }
+  22%  { opacity: 0.6; }
+  33%  { opacity: 0.48; }
+  44%  { opacity: 0.58; }
+  55%  { opacity: 0.52; }
+  66%  { opacity: 0.62; }
+  77%  { opacity: 0.47; }
+  88%  { opacity: 0.57; }
+  100% { opacity: 0.55; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  body::before { animation: none; opacity: 0.65; }
+  body::after  { animation: none; opacity: 0.55; }
+}
+
+@media (max-width: 768px), (hover: none) {
+  body {
+    background-attachment: scroll;
+  }
+}
+
+header {
+  padding: 2rem 1.5rem 1rem;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+header h1 {
+  margin: 0;
+  font-family: 'Nosifer', 'Creepster', Impact, "Arial Black", sans-serif;
+  font-size: 2.1rem;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  background: linear-gradient(90deg, #ff7518, #7c1fa0);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow:
+    0 0 18px rgba(255, 117, 24, 0.55),
+    0 0 36px rgba(124, 31, 160, 0.45),
+    0 2px 4px rgba(0, 0, 0, 0.8);
+}
+
+.subtitle {
+  color: var(--muted);
+  margin-top: 0.4rem;
+}
+
+main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5rem 3rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  position: relative;
+  z-index: 1;
+}
+
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 1.25rem;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.35);
+}
+
+.chat-log {
+  height: 60vh;
+  min-height: 400px;
+  max-height: 650px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin-bottom: 1rem;
+  padding-right: 0.25rem;
+}
+
+.msg {
+  padding: 0.6rem 0.9rem;
+  border-radius: 10px;
+  max-width: 85%;
+  line-height: 1.4;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+
+.msg.user {
+  align-self: flex-end;
+  background: var(--accent);
+  color: white;
+}
+
+.msg.bot {
+  align-self: flex-start;
+  background: #241a38;
+  border: 1px solid var(--accent-2);
+}
+
+.msg.board {
+  align-self: flex-start;
+  background: #2a1a3d;
+  border: 1px solid #c084fc;
+  font-style: italic;
+}
+.msg.board .label { color: #c084fc; }
+
+.msg.spirit {
+  align-self: flex-start;
+  background: #16221c;
+  border: 1px solid #34d399;
+}
+.msg.spirit .label { color: #34d399; }
+
+.msg .label {
+  display: block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 0.25rem;
+  opacity: 0.85;
+  font-style: normal;
+}
+
+.msg.system {
+  align-self: center;
+  color: var(--muted);
+  font-size: 0.85rem;
+  font-style: italic;
+}
+
+#chat-form {
+  display: flex;
+  gap: 0.5rem;
+}
+
+input[type="text"], input[type="password"] {
+  flex: 1;
+  padding: 0.7rem 0.9rem;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  background: #0f1117;
+  color: var(--text);
+  font-size: 0.95rem;
+}
+
+button {
+  padding: 0.7rem 1.1rem;
+  border-radius: 8px;
+  border: none;
+  background: var(--accent);
+  color: white;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+button:hover { opacity: 0.9; }
+
+.progress {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.badge {
+  background: #0f1117;
+  border: 1px solid var(--border);
+  padding: 0.4rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+}
+
+.badge.solved {
+  color: var(--success);
+  border-color: var(--success);
+}
+
+.msg.system.refused {
+  color: var(--error);
+  font-weight: 700;
+  font-style: normal;
+  border: 1px solid var(--error);
+  background: rgba(248, 113, 113, 0.08);
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+}
+
+.reload-btn {
+  align-self: center;
+  margin-top: 0.25rem;
+  background: var(--error);
+}
+
+#chat-input:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
