@@ -1,0 +1,12 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hollow Creek Haunted Trail</title><link rel="stylesheet" href="/style.css"></head><body>
+<nav><a href="/">Home</a><a href="/staff.html">Staff</a><a href="/gallery.html">Gallery</a><a href="/guestbook.html">Guestbook</a><a href="/contact.html">Hotline</a></nav>
+<main>
+<h1>Guestbook</h1>
+<p class="tag">Leave a note. Be nice. We know where you parked.</p>
+<ul class="book" id="book"></ul>
+<script>
+fetch('/data/guestbook.json').then(r => r.json()).then(entries =>
+  book.innerHTML = entries.map(e => `<li><b>@${e.user}</b><time>${e.date}</time><br>${e.text}</li>`).join(''));
+</script>
+</main>
+<footer>Hollow Creek Haunted Trail · est. 2011 · end of Ashgrove Road, past the second bridge</footer></body></html>
