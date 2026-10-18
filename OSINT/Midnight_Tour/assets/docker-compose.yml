@@ -1,0 +1,7 @@
+services:
+  midnight-tour-ctf:
+    build: .
+    container_name: midnight-tour-ctf
+    ports:
+      - "8000:8000"
+    restart: unless-stopped
