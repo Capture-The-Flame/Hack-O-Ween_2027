@@ -90,9 +90,6 @@ If you enjoy these challenges make sure to come to our future Mini CTFs. Don't f
   <img src="assets/divider_shimmer.gif" width="100%" height="6" alt="">
 </p>
 
-<p align="center">
-  <sub> 🕷️  Trick or treat may your exploits be clean and your shells be reverse. 🕷️ </sub>
-</p>
 
 <p align="center"><i>A spooky Capture the Flag, hosted by <b>WiCyS</b> × <b>LUG</b></i></p>
 
