@@ -24,7 +24,8 @@
   <img src="static/stats.png" width="100%" alt="6 Challenges · 1,650 Total Points · Flag format flame{...}">
 </p>
   
-<tr><th>Challenge</th><th>Category</th><th align="center">Points</th></tr>
+<table><tr><th>Challenge</th><th>Category</th><th align="center">Points</th></tr>
+
 <tr>
 <td><b>The Séance</b></td>
 <td>AI</td>
