@@ -2,13 +2,8 @@
   <img src="static/Banner.png" alt="Hack-O-Ween 2027 — Mini CTF — WiCyS x LUG" width="100%">
 </p>
 
-<p align="center"><h1>Hack-O-Ween</h1></p>
+<p align="center"><h1>Hack-O-Ween</h1>
 
-<p align="center">
-  <img src="static/WiCyS.webp" height="56" alt="WiCyS logo">
-  &nbsp;&nbsp;&nbsp;
-  <img src="static/LUG.webp" height="56" alt="Linux User Group logo">
-</p>
 
 Try out our 6 haunted CTF challenges! Each one hides a flag in the shape `flame{...}`. Bring a flashlight (and a terminal).
 
