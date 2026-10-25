@@ -19,47 +19,41 @@
 </p>
 
 ### The Challenges
-
+<p align="center"> <img src="assets/stats.gif" width="100%" height="6" alt=""> </p>
 <table>
 <tr><th></th><th>Challenge</th><th>Category</th><th align="center">Points</th></tr>
 
 <tr>
-<td>🔮</td>
 <td><b>The Séance</b></td>
 <td>AI</td>
 <td align="center">100</td>
 </tr>
 
 <tr>
-<td>🍬</td>
 <td><b>Haunted Candy Chefs</b></td>
 <td>Web Exploit</td>
 <td align="center">150</td>
 </tr>
 
 <tr>
-<td>🧛</td>
 <td><b>Costume Search</b></td>
 <td>Networking</td>
 <td align="center">200</td>
 </tr>
 
 <tr>
-<td>🕯️</td>
 <td><b>The Midnight Tour</b></td>
 <td>OSINT</td>
 <td align="center">300</td>
 </tr>
 
 <tr>
-<td>🔒</td>
 <td><b>The Haunted Lock</b></td>
 <td>Reverse Engineering</td>
 <td align="center">400</td>
 </tr>
 
 <tr>
-<td>📡</td>
 <td><b>Last Transmission</b></td>
 <td>Binary Exploit</td>
 <td align="center">500</td>
