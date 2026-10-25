@@ -10,7 +10,7 @@
   <img src="static/LUG.webp" height="56" alt="Linux User Group logo">
 </p>
 
-### Hack-O-Ween
+<h1>Hack-O-Ween 👻</h1>
 
 6 haunted challenges spread across AI, web, networking, OSINT, reverse engineering, and binary exploitation. Each one hides a flag in the shape `flame{...}`. Bring a flashlight (and a terminal).
 
