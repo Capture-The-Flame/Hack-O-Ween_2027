@@ -16,9 +16,6 @@ If you enjoy these challenges make sure to come to our future Mini CTFs. Don't f
 
 ### The Challenges
 
-<p align="center">
-  <img src="static/stats.png" width="100%" alt="6 Challenges · 1,650 Total Points · Flag format flame{...}">
-</p>
   
 <table width="100%">
   <thead>
