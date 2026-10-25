@@ -95,6 +95,5 @@ Try out our 6 haunted CTF challenges! Each one hides a flag in the shape `flame{
 </p>
 
 <p align="center">
-  🕷️ <i>Made with 🧡 and a little too much candy by WiCyS × LUG</i> 🕷️<br>
-  <sub>Trick or treat may your exploits be clean and your shells be reverse.</sub>
+  <sub> 🕷️  Trick or treat may your exploits be clean and your shells be reverse. 🕷️ </sub>
 </p>
