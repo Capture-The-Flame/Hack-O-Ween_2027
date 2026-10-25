@@ -9,7 +9,7 @@
 <p align="center"><i>A spooky Mini CTF, hosted by <b>WiCyS</b> × <b>LUG</b></i></p>
 
 <p align="center">
-  <img src="static/WiCyS.png" height="56" alt="WiCyS logo">
+  <img src="static/WiCyS.webp" height="56" alt="WiCyS logo">
   &nbsp;&nbsp;&nbsp;
   <img src="static/LUG.webp" height="56" alt="Linux User Group logo">
 </p>
