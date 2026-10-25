@@ -69,3 +69,32 @@ Try out our 6 haunted CTF challenges! Each one hides a flag in the shape `flame{
         <img src="https://img.shields.io/badge/300_PTS-3c1e70?style=for-the-badge&logo=ghostery&logoColor=a371f7&labelColor=161b22" alt="300 Points">
       </td>
     </tr>
+    <tr>
+      <td><b>The Haunted Lock</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Reverse_Engineering-161b22?style=flat-square&labelColor=0d1117&color=6e40c9" alt="Reverse Engineering">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/400_PTS-2c1352?style=for-the-badge&logo=ghostery&logoColor=bc8cff&labelColor=161b22" alt="400 Points">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Last Transmission</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Binary_Exploit-161b22?style=flat-square&labelColor=0d1117&color=490202" alt="Binary Exploit">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/500_PTS-1a001a?style=for-the-badge&logo=ghostery&logoColor=b62324&labelColor=161b22" alt="500 Points">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="assets/divider_shimmer.gif" width="100%" height="6" alt="">
+</p>
+
+<p align="center">
+  🕷️ <i>Made with 🧡 and a little too much candy by WiCyS × LUG</i> 🕷️<br>
+  <sub>Trick or treat may your exploits be clean and your shells be reverse.</sub>
+</p>
