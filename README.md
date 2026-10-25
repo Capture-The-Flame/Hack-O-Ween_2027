@@ -19,10 +19,12 @@
 </p>
 
 ### The Challenges
-<p align="center"> <img src="assets/stats.gif" width="100%" height="6" alt=""> </p>
-<table>
-<tr><th></th><th>Challenge</th><th>Category</th><th align="center">Points</th></tr>
 
+<p align="center">
+  <img src="static/stats.png" width="100%" alt="6 Challenges · 1,650 Total Points · Flag format flame{...}">
+</p>
+  
+<tr><th>Challenge</th><th>Category</th><th align="center">Points</th></tr>
 <tr>
 <td><b>The Séance</b></td>
 <td>AI</td>
