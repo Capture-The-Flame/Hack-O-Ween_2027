@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Hack-O-Ween 2027 — Mini CTF — WiCyS x LUG" width="100%">
+  <img src="static/Banner.png" alt="Hack-O-Ween 2027 — Mini CTF — WiCyS x LUG" width="100%">
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
 <p align="center"><i>A spooky Mini CTF, hosted by <b>WiCyS</b> × <b>LUG</b></i></p>
 
 <p align="center">
-  <img src="assets/wicys_logo.png" height="56" alt="WiCyS logo">
+  <img src="static/WiCyS.png" height="56" alt="WiCyS logo">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/lug_logo.png" height="56" alt="Linux User Group logo">
+  <img src="static/LUG.webp" height="56" alt="Linux User Group logo">
 </p>
 
 <p align="center">
