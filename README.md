@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Hack-O-Ween 2027 — Mini CTF — WiCyS x LUG" width="100%">
+  <img src="Banner.png" alt="Hack-O-Ween 2027 — Mini CTF — WiCyS x LUG" width="100%">
 </p>
 
-<h1 align="center">🎃 Hack‑O‑Ween 2027 👻</h1>
 <p align="center"><i>A spooky Mini CTF, hosted by <b>WiCyS</b> × <b>LUG</b></i></p>
 
 <p align="center">
