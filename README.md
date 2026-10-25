@@ -2,7 +2,7 @@
   <img src="static/Banner.png" alt="Hack-O-Ween 2027 — Mini CTF — WiCyS x LUG" width="100%">
 </p>
 
-<p align="center"><i>A spooky Capture the Flag, hosted by <b>WiCyS</b> × <b>LUG</b></i></p>
+<p align="center"><h1>Hack-O-Ween</h1></p>
 
 <p align="center">
   <img src="static/WiCyS.webp" height="56" alt="WiCyS logo">
@@ -10,9 +10,10 @@
   <img src="static/LUG.webp" height="56" alt="Linux User Group logo">
 </p>
 
-<h1>Hack-O-Ween 👻</h1>
-
 Try out our 6 haunted CTF challenges! Each one hides a flag in the shape `flame{...}`. Bring a flashlight (and a terminal).
+
+
+If you enjoy these challenges make sure to come to our future Mini CTFs. Don't forget the main event, Capture the Flame 🔥 which will be in April 2027!
 
 <p align="center">
   <img src="assets/divider_shimmer.gif" width="100%" height="6" alt="">
@@ -96,4 +97,12 @@ Try out our 6 haunted CTF challenges! Each one hides a flag in the shape `flame{
 
 <p align="center">
   <sub> 🕷️  Trick or treat may your exploits be clean and your shells be reverse. 🕷️ </sub>
+</p>
+
+<p align="center"><i>A spooky Capture the Flag, hosted by <b>WiCyS</b> × <b>LUG</b></i></p>
+
+<p align="center">
+  <img src="static/WiCyS.webp" height="56" alt="WiCyS logo">
+  &nbsp;&nbsp;&nbsp;
+  <img src="static/LUG.webp" height="56" alt="Linux User Group logo">
 </p>
