@@ -36,65 +36,36 @@ Try out our 6 haunted CTF challenges! Each one hides a flag in the shape `flame{
     <tr>
       <td><b>The Séance</b></td>
       <td>
-        <img src="https://img.shields.io/badge/AI-0d1117?style=flat-square&labelColor=161b22&color=a371f7" alt="AI">
+        <img src="https://img.shields.io/badge/AI-161b22?style=flat-square&labelColor=0d1117&color=6e7681" alt="AI">
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/100_PTS-ff7b00?style=for-the-badge&logo=fire&logoColor=white&labelColor=21262d" alt="100 Points">
+        <img src="https://img.shields.io/badge/100_PTS-24292f?style=for-the-badge&logo=ghostery&logoColor=8b949e&labelColor=161b22" alt="100 Points">
       </td>
     </tr>
     <tr>
       <td><b>Haunted Candy Chefs</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Web_Exploit-0d1117?style=flat-square&labelColor=161b22&color=58a6ff" alt="Web Exploit">
+        <img src="https://img.shields.io/badge/Web_Exploit-161b22?style=flat-square&labelColor=0d1117&color=238636" alt="Web Exploit">
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/150_PTS-ff6d00?style=for-the-badge&logo=fire&logoColor=white&labelColor=21262d" alt="150 Points">
+        <img src="https://img.shields.io/badge/150_PTS-1f482d?style=for-the-badge&logo=ghostery&logoColor=3fb950&labelColor=161b22" alt="150 Points">
       </td>
     </tr>
     <tr>
       <td><b>Costume Search</b></td>
       <td>
-        <img src="https://img.shields.io/badge/Networking-0d1117?style=flat-square&labelColor=161b22&color=3fb950" alt="Networking">
+        <img src="https://img.shields.io/badge/Networking-161b22?style=flat-square&labelColor=0d1117&color=195831" alt="Networking">
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/200_PTS-ff5e00?style=for-the-badge&logo=fire&logoColor=white&labelColor=21262d" alt="200 Points">
+        <img src="https://img.shields.io/badge/200_PTS-1b4d3e?style=for-the-badge&logo=ghostery&logoColor=2ea043&labelColor=161b22" alt="200 Points">
       </td>
     </tr>
     <tr>
       <td><b>The Midnight Tour</b></td>
       <td>
-        <img src="https://img.shields.io/badge/OSINT-0d1117?style=flat-square&labelColor=161b22&color=d29922" alt="OSINT">
+        <img src="https://img.shields.io/badge/OSINT-161b22?style=flat-square&labelColor=0d1117&color=8957e5" alt="OSINT">
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/300_PTS-ff4d00?style=for-the-badge&logo=fire&logoColor=white&labelColor=21262d" alt="300 Points">
+        <img src="https://img.shields.io/badge/300_PTS-3c1e70?style=for-the-badge&logo=ghostery&logoColor=a371f7&labelColor=161b22" alt="300 Points">
       </td>
     </tr>
-    <tr>
-      <td><b>The Haunted Lock</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Reverse_Engineering-0d1117?style=flat-square&labelColor=161b22&color=f0883e" alt="Reverse Engineering">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/400_PTS-ff3c00?style=for-the-badge&logo=fire&logoColor=white&labelColor=21262d" alt="400 Points">
-      </td>
-    </tr>
-    <tr>
-      <td><b>Last Transmission</b></td>
-      <td>
-        <img src="https://img.shields.io/badge/Binary_Exploit-0d1117?style=flat-square&labelColor=161b22&color=f85149" alt="Binary Exploit">
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/500_PTS-d00000?style=for-the-badge&logo=fire&logoColor=white&labelColor=21262d" alt="500 Points">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<p align="center">
-  <img src="assets/divider_shimmer.gif" width="100%" height="6" alt="">
-</p>
-
-<p align="center">
-  🕷️ <i>Made with 🧡 and a little too much candy by WiCyS × LUG</i> 🕷️<br>
-  <sub>Trick or treat may your exploits be clean and your shells be reverse.</sub>
-</p>
