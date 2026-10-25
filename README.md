@@ -5,7 +5,7 @@
 <p align="center"><h1>Hack-O-Ween</h1>
 
 
-Try out our 6 haunted CTF challenges! Each one hides a flag in the shape `flame{...}`. Bring a flashlight (and a terminal).
+Try out our 6 haunted CTF challenges! Each one hides a flag in the format `flame{...}`. 
 
 
 If you enjoy these challenges make sure to come to our future Mini CTFs. Don't forget the main event, Capture the Flame 🔥 which will be in April 2027!
