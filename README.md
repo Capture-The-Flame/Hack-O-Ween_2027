@@ -12,7 +12,7 @@
 
 <h1>Hack-O-Ween 👻</h1>
 
-6 haunted challenges spread across AI, web, networking, OSINT, reverse engineering, and binary exploitation. Each one hides a flag in the shape `flame{...}`. Bring a flashlight (and a terminal).
+Try out our 6 haunted CTF challenges! Each one hides a flag in the shape `flame{...}`. Bring a flashlight (and a terminal).
 
 <p align="center">
   <img src="assets/divider_shimmer.gif" width="100%" height="6" alt="">
