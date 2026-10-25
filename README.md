@@ -94,9 +94,9 @@ If you enjoy these challenges make sure to come to our future Mini CTFs. Don't f
 <p align="center"><i>A spooky Capture the Flag, hosted by <b>WiCyS</b> × <b>LUG</b> x <b>Capture the Flame</b></i></p>  
 
 <p align="center">
-  <img src="static/WiCyS.webp" height="56" alt="WiCyS logo">
+  <img src="static/WiCyS.png" height="56" alt="WiCyS logo">
   &nbsp;&nbsp;&nbsp;
   <img src="static/LUG.webp" height="56" alt="Linux User Group logo">
   &nbsp;&nbsp;&nbsp;
-  <img src="static/CTF.webp" height="56" alt="Capture the Flame">
+  <img src="static/CTF.png" height="56" alt="Capture the Flame">
 </p>
