@@ -12,6 +12,17 @@ If you enjoy these challenges make sure to come to our future Mini CTFs. Don't f
   <img src="assets/divider_shimmer.gif" width="100%" height="6" alt="">
 </p>
 
+The repo has the following structure
+
+<pre> Category/ 
+        ├── Challenge/ 
+            ├── assets/ 
+            |   ├── < Challenge File >
+            |   └── toMake/
+            |       └── Files to make challenges
+            └── < Challenge Write-up >
+</pre>
+
 ### The Challenges
 
 
