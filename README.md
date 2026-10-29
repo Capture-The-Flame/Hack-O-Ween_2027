@@ -1,22 +1,5 @@
-<p align="center">
-  <img src="static/Banner.png" alt="Hack-O-Ween 2027 — Mini CTF — WiCyS x LUG" width="100%">
-</p>
+Try out our 10 haunted CTF challenges! Each one hides a flag in the format `flame{...}`. 
 
-<p align="center"><h1>Hack-O-Ween</h1>
-
-
-Try out our 6 haunted CTF challenges! Each one hides a flag in the format `flame{...}`. 
-
-
-If you enjoy these challenges make sure to come to our future Mini CTFs. Don't forget the main event, Capture the Flame 🔥 which will be in April 2027!
-
-<p align="center">
-  <img src="assets/divider_shimmer.gif" width="100%" height="6" alt="">
-</p>
-
-### The Challenges
-
-  
 <table width="100%">
   <thead>
     <tr>
@@ -27,9 +10,9 @@ If you enjoy these challenges make sure to come to our future Mini CTFs. Don't f
   </thead>
   <tbody>
     <tr>
-      <td><b>The Séance</b></td>
+      <td><b>Brainiac</b></td>
       <td>
-        <img src="https://img.shields.io/badge/AI-161b22?style=flat-square&labelColor=0d1117&color=6e7681" alt="AI">
+        <img src="https://img.shields.io/badge/Forensics-161b22?style=flat-square&labelColor=0d1117&color=d29922" alt="Forensics">
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/100_PTS-24292f?style=for-the-badge&logo=ghostery&logoColor=8b949e&labelColor=161b22" alt="100 Points">
@@ -54,6 +37,15 @@ If you enjoy these challenges make sure to come to our future Mini CTFs. Don't f
       </td>
     </tr>
     <tr>
+      <td><b>The Witches Home</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Forensics-161b22?style=flat-square&labelColor=0d1117&color=d29922" alt="Forensics">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/200_PTS-1b4d3e?style=for-the-badge&logo=ghostery&logoColor=2ea043&labelColor=161b22" alt="200 Points">
+      </td>
+    </tr>
+    <tr>
       <td><b>The Midnight Tour</b></td>
       <td>
         <img src="https://img.shields.io/badge/OSINT-161b22?style=flat-square&labelColor=0d1117&color=8957e5" alt="OSINT">
@@ -63,7 +55,25 @@ If you enjoy these challenges make sure to come to our future Mini CTFs. Don't f
       </td>
     </tr>
     <tr>
-      <td><b>The Haunted Lock</b></td>
+      <td><b>BackFromTheDed</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Networking-161b22?style=flat-square&labelColor=0d1117&color=195831" alt="Networking">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/350_PTS-35195e?style=for-the-badge&logo=ghostery&logoColor=b07cf5&labelColor=161b22" alt="350 Points">
+      </td>
+    </tr>
+    <tr>
+      <td><b>Trojan Hearse</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Binary_Exploit-161b22?style=flat-square&labelColor=0d1117&color=490202" alt="Binary Exploit">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/350_PTS-35195e?style=for-the-badge&logo=ghostery&logoColor=b07cf5&labelColor=161b22" alt="350 Points">
+      </td>
+    </tr>
+    <tr>
+      <td><b>The Halloween Lock</b></td>
       <td>
         <img src="https://img.shields.io/badge/Reverse_Engineering-161b22?style=flat-square&labelColor=0d1117&color=6e40c9" alt="Reverse Engineering">
       </td>
@@ -80,20 +90,14 @@ If you enjoy these challenges make sure to come to our future Mini CTFs. Don't f
         <img src="https://img.shields.io/badge/500_PTS-1a001a?style=for-the-badge&logo=ghostery&logoColor=b62324&labelColor=161b22" alt="500 Points">
       </td>
     </tr>
+    <tr>
+      <td><b>Graveyard Shift</b></td>
+      <td>
+        <img src="https://img.shields.io/badge/Web_Exploit-161b22?style=flat-square&labelColor=0d1117&color=238636" alt="Web Exploit">
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/500_PTS-1a001a?style=for-the-badge&logo=ghostery&logoColor=b62324&labelColor=161b22" alt="500 Points">
+      </td>
+    </tr>
   </tbody>
 </table>
-
-<p align="center">
-  <img src="assets/divider_shimmer.gif" width="100%" height="6" alt="">
-</p>
-
-
-<p align="center"><i>A spooky Capture the Flag, hosted by <b>WiCyS</b> × <b>LUG</b> x <b>Capture the Flame</b></i></p>  
-
-<p align="center">
-  <img src="static/WiCyS.webp" height="56" alt="WiCyS logo">
-  &nbsp;&nbsp;&nbsp;
-  <img src="static/LUG.webp" height="56" alt="Linux User Group logo">
-  &nbsp;&nbsp;&nbsp;
-  <img src="static/CTF.png" height="56" alt="Capture the Flame">
-</p>
