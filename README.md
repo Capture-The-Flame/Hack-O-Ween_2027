@@ -1,4 +1,19 @@
-Try out our 10 haunted CTF challenges! Each one hides a flag in the format `flame{...}`. 
+<p align="center">
+  <img src="static/Banner.png" alt="Hack-O-Ween 2027 — Mini CTF — WiCyS x LUG" width="100%">
+</p>
+
+<p align="center"><h1>Hack-O-Ween</h1>
+
+Try out our 6 haunted CTF challenges! Each one hides a flag in the format flame{...}. 
+
+If you enjoy these challenges make sure to come to our future Mini CTFs. Don't forget the main event, Capture the Flame 🔥 which will be in April 2027!
+
+<p align="center">
+  <img src="assets/divider_shimmer.gif" width="100%" height="6" alt="">
+</p>
+
+### The Challenges
+
 
 <table width="100%">
   <thead>
