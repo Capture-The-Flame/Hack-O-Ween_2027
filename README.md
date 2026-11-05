@@ -16,7 +16,7 @@ If you enjoy these challenges make sure to come to our main event Capture the Fl
 Pick whichever option works best for you:
 
 ### Option 1: Use the website
-Play directly in your browser at **[hack-o-ween-2026.vercel.app](https://hack-o-ween-2026.vercel.app/)**.
+Play directly in your browser at **[hack-o-ween-2026](https://hack-o-ween-2026.vercel.app/)**.
 
 > [!IMPORTANT]
 > To SSH into the server you must be connected to **UIC WiFi**.
