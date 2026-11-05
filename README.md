@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="static/Banner.png" alt="Hack-O-Ween 2027 — Mini CTF — WiCyS x LUG" width="100%">
+  <img src="static/hack-o-ween.png" width="100%">
 </p>
 
 <p align="center"><h1>Hack-O-Ween</h1>
@@ -129,6 +129,7 @@ The repo has the following structure
   </tbody>
 </table>
 
+
 <p align="center">
-  <img src="static/hack-o-ween.png" width="100%">
+  <img src="static/Banner.png" alt="Hack-O-Ween 2027 — Mini CTF — WiCyS x LUG" width="100%">
 </p>
