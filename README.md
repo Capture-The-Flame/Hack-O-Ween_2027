@@ -15,6 +15,7 @@ If you enjoy these challenges make sure to come to our main event Capture the Fl
 
 Pick whichever option works best for you:
 
+---
 ### Option 1: Use the website
 Play directly in your browser at **[Hack-O-Ween](https://hack-o-ween-2026.vercel.app/)**.
 
