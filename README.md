@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=80&duration=3000&pause=1200&color=FF7A1A&center=true&vCenter=true&width=900&height=140&lines=Hack-O-Ween;October+29th+2026" alt="Hack-O-Ween" />
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=80&duration=3000&pause=1200&color=FF7A1A&center=true&vCenter=true&width=900&height=140&lines=Hack-O-Ween;WiCyS+x+LUG" alt="Hack-O-Ween" />
 </p>
 <p align="center">
   <img src="static/hack-o-ween.png" width="100%">
