@@ -1,4 +1,6 @@
-<p align="center"><h1>Hack-O-Ween</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Creepster&size=52&duration=3000&pause=1200&color=FF7A1A&center=true&vCenter=true&width=700&height=90&lines=Hack-O-Ween;Try+our+10+haunted+CTF+challenges" alt="Hack-O-Ween" />
+</p>
 <p align="center">
   <img src="static/hack-o-ween.png" width="100%">
 </p>
