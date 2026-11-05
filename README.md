@@ -1,6 +1,7 @@
-
-
 <p align="center"><h1>Hack-O-Ween</h1>
+<p align="center">
+  <img src="static/hack-o-ween.png" width="100%">
+</p>
 
 Try out our 10 haunted CTF challenges! Each one hides a flag in the format flame{...}. 
 
