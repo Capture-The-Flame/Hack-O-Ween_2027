@@ -9,7 +9,6 @@ Try out our 10 haunted CTF challenges! Each one hides a flag in the format flame
 
 If you enjoy these challenges make sure to come to our main event Capture the Flame 🔥 which will be in April 2027!
 
----
 
 ## How to Play
 
