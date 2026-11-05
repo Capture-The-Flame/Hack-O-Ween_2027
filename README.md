@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="static/hack-o-ween.png" width="100%">
-</p>
+
 
 <p align="center"><h1>Hack-O-Ween</h1>
 
