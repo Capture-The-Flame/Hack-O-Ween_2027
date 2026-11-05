@@ -4,7 +4,7 @@
 
 <p align="center"><h1>Hack-O-Ween</h1>
 
-Try out our 6 haunted CTF challenges! Each one hides a flag in the format flame{...}. 
+Try out our 10 haunted CTF challenges! Each one hides a flag in the format flame{...}. 
 
 If you enjoy these challenges make sure to come to our future Mini CTFs. Don't forget the main event, Capture the Flame 🔥 which will be in April 2027!
 
@@ -128,3 +128,7 @@ The repo has the following structure
     </tr>
   </tbody>
 </table>
+
+<p align="center">
+  <img src="static/hack-o-ween.png" width="100%">
+</p>
